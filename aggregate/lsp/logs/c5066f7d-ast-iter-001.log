@@ -1,0 +1,7 @@
+[2026-11-02T21:00:21Z] === AST ITERATION 1 START | repo=zopefoundation/RestrictedPython sha=c5066f7d ===
+[2026-11-02T21:00:21Z] [iter=1] PHASE START: ast repo=zopefoundation/RestrictedPython sha=c5066f7d
+[2026-11-02T21:00:21Z] [iter=1] Building AST aggregate chunks
+[2026-11-02T21:00:44Z] [iter=1] AST chunks built count=1 triples=215333
+[2026-11-02T21:00:44Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c5066f7d5b2c7538c67c2f8c4635d681c2b325aa/.complete
+[2026-11-02T21:00:44Z] [iter=1] PHASE END: ast elapsed_s=22 elapsed_min=0.4
+[2026-11-02T21:00:44Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
