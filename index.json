@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "RestrictedPython",
+  "versions": [
+    {
+      "commit": "c5066f7d5b2c7538c67c2f8c4635d681c2b325aa",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:02:23.909425+00:00"
+    }
+  ]
+}
