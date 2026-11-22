@@ -3,6 +3,11 @@
   "repo": "RestrictedPython",
   "versions": [
     {
+      "commit": "607418634eea18d1fe5d9b54880791ea25b3fa3a",
+      "tag": "backups/zope2@76328",
+      "parsed_at": "2026-11-22T01:41:43.588673+00:00"
+    },
+    {
       "commit": "c5066f7d5b2c7538c67c2f8c4635d681c2b325aa",
       "tag": "",
       "parsed_at": "2026-11-02T21:02:23.909425+00:00"
